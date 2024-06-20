@@ -40,7 +40,7 @@
 <body>
     <div class="container">
         <h1>Bienvenido a mi Sitio</h1>
-        <p>Por favor, inicia sesión para continuar:</p>
+        <p>Por favor, inicia sesión para continuarws:</p>
         <a href="login.jsp" class="btn">Iniciar Sesión</a>
     </div>
 </body>
